@@ -13,12 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!https://www.w3schools.com/DOCTYPE html>
-<html>
-<body>
-
-<h1>Typewriter</h1>
-
 <button onclick="typeWriter()">Click me</button>
 
 <p id="demo"></p>
@@ -37,6 +31,4 @@ function typeWriter() {
 }
 </script>
 
-</body>
-</html>
 
