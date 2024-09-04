@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"><!--Welcome to Muhammed Elkenany's GitHub profile!--><span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hello Image" width="28" \></span></h1>
+<h1 align="center">Welcome to Muhammed Elkenany's GitHub profile<span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hello Image" width="28" \></span></h1>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7F3A2&width=435&lines=MERN+Stack+Developer;Always++learning+new+things" alt="Typing SVG" /></a></p>
 
 
