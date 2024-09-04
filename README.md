@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7673F7&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Always++learning+new+things+" alt="Typing SVG" /></a></p>
 
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="center">
+<p>
 <a href="https://linkedin.com/in/mohamed-elkenany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-elkenany" height="30" width="40" /></a>
 <a href="https://fb.com/mohamed elkenany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed elkenany" height="30" width="40" /></a>
 <a href="https://instagram.com/mohamed_elkenany74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed_elkenany74" height="30" width="40" /></a>
 </p>
+</div>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
