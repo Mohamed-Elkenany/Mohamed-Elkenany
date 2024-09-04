@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7673F7&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Always++learning+new+things+" alt="Typing SVG" /></a></p>
 
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-elkenany&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-elkenany" /> </p>-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-elkenany" alt="mohamed-elkenany" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
